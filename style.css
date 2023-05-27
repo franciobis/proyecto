@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(rgb(4, 210, 233), white);
+}
+
+.bolo {
+    border-radius: 4px;
+}
+.encabezado {
+    text-align: center;
+}
+.encabezado2 {
+    text-align: center;
+}
